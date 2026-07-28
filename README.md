@@ -1,6 +1,9 @@
 # LeetCode Solutions
 
-A collection of LeetCode problem solutions with explanations.
+A collection of LeetCode problem solutions with explanations. Written in Python. Solved by Komari.
+
+## Background
+No, I am not a CP (Competitive Programming) expert, this repository serves as a database for my solutions for learning and interviews. The solutions may seem longer but easier to understand compared to CP enthusiasts.
 
 ## Math
 
@@ -8,6 +11,12 @@ A collection of LeetCode problem solutions with explanations.
 |---|---------|------------|
 | 3536 | [Maximum Product of Two Digits](./3536.%20Maximum%20Product%20of%20Two%20Digits) | Easy |
 | 628 | [Maximum Product of Three Numbers](./628.%20Maximum%20Product%20of%20Three%20Numbers) | Easy |
+
+## String
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3517 | [Smallest Palindromic Rearrangement I](./3517.%20Smallest%20Palindromic%20Rearrangement%20I) | Easy |
 
 ## Array
 
